@@ -1,0 +1,1 @@
+Função de marcação e desmarcação de contatos favoritos
